@@ -2,6 +2,8 @@
 Udacity Security Engineer Project 3
 
 <h2>Project Scenario</h2>
+<img src="https://video.udacity-data.com/topher/2020/October/5f88a955_noun-defense-1645323/noun-defense-1645323.png" alt="Alt text" title="Optional title">
+
 
 Your employer, NuttyUtility, is a company in the technology sector with cutting edge software that is known to be targeted by foreign adversaries and has recently acquired a new company, StaticSpeed. Your job is to assess the security posture of the newly acquired company.
 
