@@ -1,5 +1,22 @@
 # Adversarial-Resilience--Assessing-Infrastructure-Security
-Udacity Security Engineer Project 3
+<h3>Udacity Security Engineer Project 3</h3>
+<p>
+  <h3>Outcomes</h3>
+  <ul>
+    <li>
+    Setting virtual testing environment for Linux and Windows. 
+    </li>
+    <li>
+Perform asset identification, address update, dependencies, patches, and native protections at targeted Server/ Desktop Operating Systems.
+    </li>
+    <li>
+Log monitoring setup for detection and Assess access and Authentication management at targeted assets.
+    </li>
+    <li>
+create the final report, assessment, and recommendation.
+    </li>
+  </ul>
+</p>
 
 <h2>Project Scenario</h2>
 <img src="https://video.udacity-data.com/topher/2020/October/5f88a955_noun-defense-1645323/noun-defense-1645323.png" alt="Alt text" title="Optional title">
